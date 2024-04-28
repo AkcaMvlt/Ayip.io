@@ -167,7 +167,7 @@
 -Favicon creado con:        https://favicon.io/
 -Metatags generados con:    https://metatags.io/
 -Sitio basado en:           https://github.com/Donchelox/tv-viewer
-                            https://github.com/Alplox/teles
+                            https://github.com/AkcaMvlt/Ayip.io
 -Fuente:                    https://fonts.google.com/specimen/Poppins
     Licencia: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 -modern-normalize.css:      https://github.com/sindresorhus/modern-normalize
