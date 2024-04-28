@@ -1,11 +1,11 @@
 {
-    "Ceylan": {
-        "nombre": "🎵 Ceylan",
+    "Yeni Turis": {
+        "nombre": "🎵 Yeni Turis",
         "yt_id": "aRbj2MzaCFA",
         "pais": "cl"
     },
-    "AFYON TÜRK": {
-        "nombre": "🎵 AFYON TÜRK",
+    "Mülayim TÜRK": {
+        "nombre": "🎵 Mülayim TÜRK",
         "m3u8_url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
