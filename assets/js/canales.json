@@ -1,0 +1,189 @@
+{
+    "Ceylan": {
+        "nombre": "🎵 Ceylan",
+        "yt_id": "aRbj2MzaCFA",
+        "pais": "cl"
+    },
+    "AFYON TÜRK": {
+        "nombre": "🎵 AFYON TÜRK",
+        "m3u8_url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+
+    },
+    "KRAL POP": {
+        "nombre": "🎵 KRAL POP",
+        "iframe_url": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+        "fuente": "https://www.twitch.tv/24horas_tvn",
+        "pais": "cl"
+    },
+    "TRT MUZiK": {
+        "nombre": "🎵 TRT MUZiK",
+        "iframe_url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "DREAM TÜRK": {
+        "nombre": "🎵 DREAM TÜRK",
+        "iframe_url": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "TATLISES TV": {
+        "nombre": "🎵 TATLISES TV",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "NR 1 TÜRK": {
+        "nombre": "🎵 NR 1 TÜRK",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+
+    },
+    "NR 1": {
+        "nombre": "🎵 NR 1",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+
+    },
+    "POWER TÜRK": {
+        "nombre": "🎵 POWER TÜRK",
+        "iframe_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8",
+        "fuente": "https://www.twitch.tv/meganoticiascl",
+        "pais": "cl"
+    },
+    "POWER TURK SLOW": {
+        "nombre": "🎵 POWER TURK SLOW",
+        "iframe_url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+        "pais": "cl"
+    },
+    "POWER TV AKUSTiK": {
+        "nombre": "🎵 POWER TV AKUSTiK",
+        "m3u8_url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+        "fuente": "https://www.mega.cl/",
+        "pais": "cl"
+    },
+    "POWER TURK TAPTAZE": {
+        "nombre": "🎵 POWER TURK TAPTAZE",
+        "m3u8_url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "fuente": "https://www.mega.cl/",
+        "pais": "cl"
+    },
+    "POWER DANCE": {
+        "nombre": "🎵 POWER DANCE",
+        "iframe_url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+        "fuente": "https://www.twitch.tv/t13envivo",
+        "pais": "cl"
+    },
+    "POWER LOVE": {
+        "nombre": "🎵 POWER LOVE",
+        "m3u8_url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+        "fuente": "https://www.t13.cl/",
+        "pais": "cl"
+    },
+    "POWER TV": {
+        "nombre": "🎵 POWER TV",
+        "m3u8_url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8",
+        "fuente": "https://www.t13.cl/",
+        "pais": "cl"
+    },
+    "MiLYON TV": {
+        "nombre": "🎵 MiLYON TV",
+        "iframe_url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
+        "fuente": "https://www.t13.cl/",
+        "pais": "cl"
+
+    },
+    "SLOW KARADENIZ": {
+        "nombre": "🎵 SLOW KARADENIZ",
+        "iframe_url": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "TEMPO TV": {
+        "nombre": "🎵 TEMPO TV",
+        "iframe_url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+
+    },
+    "FORTUNA TV": {
+        "nombre": "🎵 FORTUNA TV",
+        "m3u8_url": "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+        "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
+        "pais": "cl"
+    },
+    "FiNEST TV": {
+        "nombre": "🎵 FiNEST TV",
+        "m3u8_url": "https://media.finest.tv/hls/live.m3u8",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "DAMAR TV": {
+        "nombre": "🎵 DAMAR TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=damar&file=.m3u8",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+
+    },
+    "ARABESK TV": {
+        "nombre": "🎵 ARABESK TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8",
+        "fuente": "https://www.chilevision.cl/senal-online",
+        "pais": "cl"
+
+    },
+    "ZEYNO TV": {
+        "nombre": "🎵 ZEYNO TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8",
+        "fuente": "https://www.chilevision.cl/senal-online",
+        "pais": "cl"
+    },
+    "VOSTOK": {
+        "nombre": "🎵 VOSTOK",
+        "m3u8_url": "http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "TOP POP TV": {
+        "nombre": "🎵 TOP POP TV",
+        "iframe_url": "https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8",
+        "fuente": "http://programas.cooperativa.cl/showalairelibre/",
+        "pais": "cl"
+    },
+    "AVIVA TV": {
+        "nombre": "🎵 AVIVA TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8",
+        "fuente": "https://www.biobiochile.cl/biobiotv/",
+        "pais": "cl"
+
+    },
+    "GENC SMS": {
+        "nombre": "🎵 GENC SMS",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=genctv&file=.m3u8",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl"
+    },
+    "KANAL 19": {
+        "nombre": "🎵 KANAL 19",
+        "iframe_url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl"
+
+
+    },
+    "congreso-peru": {
+        "nombre": "🏛️ Congreso República del Perú",
+        "yt_id": "UCsKiP5cZCYh9YhPGrI6GrkQ",
+        "pais": "pe"
+    },
+    "justicia-tv": {
+        "nombre": "🏛️ Justicia TV",
+        "yt_id": "UCwsURxTXqGqijgu98ndod3A",
+        "pais": "pe"
+    }
+}
