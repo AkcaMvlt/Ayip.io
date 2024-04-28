@@ -39,11 +39,11 @@ function m3utojson(m3u) {
 // https://www.m3u.cl/iptv-chile.php
 let m3u = `
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="Mulayim Turis" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", AFYON TÜR * | CL
+#EXTINF:-1 tvg-id="4" tvg-name="Mulayim Turis" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", ttttt * | CL
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="KRAL POP TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", KRAL POP TV * | CL
+#EXTINF:-1 tvg-id="5" tvg-name="KRAL POP TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", jjjjj * | CL
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-id="465" tvg-name="KRAL POP TV HD" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", KRAL POP TV HD * | CL
+#EXTINF:-1 tvg-id="465" tvg-name="KRAL POP TV HD" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", mmmmm * | CL
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="TRT MUZiK" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", TRT MUZiK * | CL
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
