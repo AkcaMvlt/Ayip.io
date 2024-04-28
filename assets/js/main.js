@@ -198,7 +198,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 // PARA LISTADO PRIMARIO
-fetch('https://raw.githubusercontent.com/AkcaMvlt/Ayip.io/main/assets/js/canales-secundarios.js')
+fetch('https://raw.githubusercontent.com/AkcaMvlt/Ayip.io/main/assets/js/canales.json')
   .then(response => response.json())
   .then(data => {
     let fragmentBtns = document.createDocumentFragment();
